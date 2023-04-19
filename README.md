@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Bahadır Dal</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
-<img aling="center" alt="Coding" height = "300" width="1100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM0NGIzOGIwZGMxYmQ0OGU4ZGMyZmM4YjI4YTJiYjg1YThlY2Q5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<img aling="center" alt="Coding" height = "275" width="1100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM0NGIzOGIwZGMxYmQ0OGU4ZGMyZmM4YjI4YTJiYjg1YThlY2Q5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadirdal&label=Profile%20views&color=0e75b6&style=flat" alt="bahadirdal" /> </p>
