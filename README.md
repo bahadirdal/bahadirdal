@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Bahadır Dal</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
+<img aling="center" alt="Coding" width="400" src="https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadirdal&label=Profile%20views&color=0e75b6&style=flat" alt="bahadirdal" /> </p>
 
