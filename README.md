@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Mobile, Game and Blockchain Development**
 
-- 🌱 I’m currently learning **Dart & React Native & Solidity & Unity**
+- 🌱 I’m currently learning **Dart & Solidity & Unity**
 
 - 💬 Ask me about **Flutter, Dart**
 
